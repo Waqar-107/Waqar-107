@@ -1,16 +1,11 @@
 ##### Hi, my name is
-## Waqar Hassan Khan
-## I write codes to stay alive :)
+# Waqar Hassan Khan
+# I write codes to stay alive :)
 
-### Languages 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### Programming and Scripting Language
 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg" height=50><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" height=50><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" height=50><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" height=50><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" height=50><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.svg" height=50>
 
 ## &#x1f4c8; GitHub Stats
 
