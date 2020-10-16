@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-107" alt="waqar-107" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true" alt="waqar-107" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true" alt="waqar-107" /></p>
