@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/waqar-hassan-khan-918a04150/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="waqar hassan khan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_lucifer_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_lucifer_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/waqar_107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="waqar_107" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@waqar_107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@waqar_107" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/waqar_107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="waqar_107" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
