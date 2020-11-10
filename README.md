@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB and OpenCV**
 
-- 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net//](https://waqar-107.azurewebsites.net/)
+- 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
 
 - 💬 Ask me about **Algorithm and Data Structures, React and NodeJs**
 
