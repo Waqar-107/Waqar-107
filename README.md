@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MongoDB and OpenCV**
 
-- 👨‍💻 All of my projects are available at [https://waqar-107.herokuapp.com/](https://waqar-107.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net//](https://waqar-107.azurewebsites.net/)
 
 - 💬 Ask me about **Algorithm and Data Structures, React and NodeJs**
 
 - 📫 How to reach me **waqar.hassan866@gmail.com**
 
-- 📄 Know about my experiences [https://waqar-107.herokuapp.com/khan_cv.pdf](https://waqar-107.herokuapp.com/khan_cv.pdf)
+- 📄 Know about my experiences [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf)
 
 <br/>
 
