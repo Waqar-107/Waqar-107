@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning **MongoDB and OpenCV**
+- 🌱 I’m currently revising *relational database*
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
 
