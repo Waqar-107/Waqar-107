@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waqar</h1>
 <h3 align="center">I write codes to stay alive :)</h3>
 
-![](https://komarev.com/ghpvc/?username=Waqar-107)
-
 <br/><br/>
 
 - 🌱 I’m currently revising *relational database*
