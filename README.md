@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waqar</h1>
-~~I write codes to stay alive :)~~
-<h3 align="center">I am dead inside</h3>
+<h3 align="center">I am dead from the inside :)</h3>
 
 <br/><br/>
 
-- 🌱 I’m currently revising *relational database*
+- 🌱 I’m currently learning about *blockchain*
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
 
