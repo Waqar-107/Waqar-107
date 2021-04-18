@@ -3,13 +3,13 @@
 
 <br/><br/>
 
-- 🌱 I’m currently learning about *blockchain*
+- 🌱 I’m currently learning about *blockchains*
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
 
 - 💬 Ask me **nothing**
 
-- 📫 How to reach me **waqar.hassan866@gmail.com**
+- 📫 Reach me through **waqar.hassan866@gmail.com**
 
 - 📄 Know about my experiences [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf)
 
