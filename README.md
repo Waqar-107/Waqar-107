@@ -9,7 +9,7 @@
 
 - 💬 Ask me **nothing**
 
-- 📫 Reach me through **waqar.hassan866@gmail.com**
+- 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being 😢
 
 - 📄 Know about my experiences [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf)
 
