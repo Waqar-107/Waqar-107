@@ -57,10 +57,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></td>
   </tr>
-</table>
-<table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-107&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></td>
-    <td></td>
   </tr>
 </table>
