@@ -52,9 +52,8 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-107" alt="waqar-107" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-107&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true" alt="waqar-107" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true" alt="waqar-107" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-107&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></p>
