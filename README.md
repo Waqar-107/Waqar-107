@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Waqar</h1>
-<h3 align="center">I am dead from the inside :)</h3>
+<!-- <h3 align="center">I am dead from the inside :)</h3> -->
 
 <br/><br/>
 
-- 🌱 I’m currently learning about _blockchains_
+- 🌱 I’m currently working as a Software Engineer in Enosis Solutions
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
 
 - 💬 Ask me **nothing**
 
-- 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being.
+- 📫 Reach me through **waqar.hassan866@gmail.com**
 
-- 📄 Checkout my resume [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf) (I know I have a low cgpa in undergrad, don't ask why :3)
+<!-- - 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being. -->
+
+- 📄 Checkout my resume [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf)
 
 <br/>
 
