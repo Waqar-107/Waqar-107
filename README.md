@@ -63,3 +63,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-107&theme=tokyonight&layout=compact&hide=html" alt="waqar-107" /></td>
   </tr>
 </table>
+    
+    
+### ⚡ Fun fact 😁:
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
