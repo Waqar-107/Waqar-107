@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
 
-- 💬 Ask me **nothing**
+<!-- - 💬 Ask me **nothing** -->
 
 - 📫 Reach me through **waqar.hassan866@gmail.com**
 
