@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a Software Engineer at Enosis Solutions
 
-- 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.azurewebsites.net/)
+- 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.github.io/portfolio/#/)
 
 <!-- - 💬 Ask me **nothing** -->
 
@@ -13,7 +13,7 @@
 
 <!-- - 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being. -->
 
-- 📄 Checkout my resume [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf)
+<!-- - 📄 Checkout my resume [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf) -->
 
 <br/>
 
