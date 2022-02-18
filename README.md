@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a Software Engineer at Enosis Solutions
 
-- 👨‍💻 All of my projects are available at [https://waqar-107.azurewebsites.net/](https://waqar-107.github.io/portfolio/#/)
+- 👨‍💻 All of my projects are available at [https://waqar-107.github.io/portfolio](https://waqar-107.github.io/portfolio/#/)
 
 <!-- - 💬 Ask me **nothing** -->
 
