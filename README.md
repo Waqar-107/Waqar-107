@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.github.io/portfolio](https://waqar-107.github.io/portfolio/#/)
 
-<!-- - 💬 Ask me **nothing** -->
+- 💬 Ask me **nothing**
+<!-- 
+- 📫 Reach me through **waqar.hassan866@gmail.com** -->
 
-- 📫 Reach me through **waqar.hassan866@gmail.com**
-
-<!-- - 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being. -->
+- 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being.
 
 <!-- - 📄 Checkout my resume [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf) -->
 
@@ -24,6 +24,10 @@
 <a href="https://www.leetcode.com/waqar_107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="waqar_107" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/waqar_107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="waqar_107" height="30" width="40" /></a>
 </p>
+
+<br/>
+
+![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=Waqar-107)
 
 <br/>
 
