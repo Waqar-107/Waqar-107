@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waqar</h1>
-<!-- <h3 align="center">I write codes to stay alive :)</h3> -->
+<h3 align="center">I write codes to stay alive :)</h3>
 
 <br/><br/>
 
@@ -8,8 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://waqar-107.github.io/portfolio](https://waqar-107.github.io/portfolio/#/)
 
 - 💬 Ask me **nothing**
-<!-- 
-- 📫 Reach me through **waqar.hassan866@gmail.com** -->
 
 - 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being. I am busy af.
 
