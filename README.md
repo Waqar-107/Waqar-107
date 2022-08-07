@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waqar</h1>
-<!-- <h3 align="center">I am dead from the inside :)</h3> -->
+<!-- <h3 align="center">I write codes to stay alive :)</h3> -->
 
 <br/><br/>
 
-- 🌱 I’m currently working as a Software Engineer at Enosis Solutions
+- 🌱 I will be joining Arizona State University in Fall 22 to start my Ph.D. in CS
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.github.io/portfolio](https://waqar-107.github.io/portfolio/#/)
 
@@ -11,9 +11,7 @@
 <!-- 
 - 📫 Reach me through **waqar.hassan866@gmail.com** -->
 
-- 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being.
-
-<!-- - 📄 Checkout my resume [https://waqar-107.azurewebsites.net/khan_cv.pdf](https://waqar-107.azurewebsites.net/khan_cv.pdf) -->
+- 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being. I am busy af.
 
 <br/>
 
