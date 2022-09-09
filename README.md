@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-- 🌱 I will be joining Arizona State University in Fall 22 to start my Ph.D. in CS
+- 🌱 Ph.D. student at the School of Computing and Augmented Intelligence, ASU.
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.github.io/portfolio](https://waqar-107.github.io/portfolio/#/)
 
