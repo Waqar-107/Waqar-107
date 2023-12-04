@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://waqar-107.github.io/portfolio](https://waqar-107.github.io/portfolio/#/)
 
-- 💬 Ask me **nothing**
+- 💬 Ask me about **coding**
 
-- 📫 ~~Reach me through **waqar.hassan866@gmail.com**~~ Leave me alone for the time being. I am busy af.
+- 📫 Reach me through **waqar.hassan866@gmail.com**.
 
 <br/>
 
