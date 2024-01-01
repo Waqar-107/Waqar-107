@@ -23,7 +23,7 @@
 
 <br/>
 
-![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=Waqar-107)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Waqar-107&theme=nordfox)](https://git.io/streak-stats)
 
 <br/>
 
